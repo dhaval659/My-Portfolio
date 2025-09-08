@@ -19,7 +19,7 @@ const Section1 = () => {
             .typeString("WELCOME TO MY PORTFOLIO...") // Type out the text
             .pauseFor(1000)
             .deleteAll()
-            .typeString("MY NAME IS DHRUVIN SATHVARA") // Type out the text
+            .typeString("MY NAME IS DHAVAL PATEL") // Type out the text
             .pauseFor(1000)
             .deleteAll()
             .typeString("I'm a FRONTEND DEVELOPER...") // Type out the text

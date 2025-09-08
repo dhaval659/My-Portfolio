@@ -17,12 +17,12 @@ const Footer = () => {
                         <a href='https://github.com/Dhaval659' target='_blank' class="fa-brands similarFont fs-1 fa-github"></a>
                         <span className='dashi'></span>
                     </div>
-                    {/* <div className="col"
+                    <div className="col"
                         data-aos-anchor-placement="top-center">
                         <span className='i'></span>
-                        <a href='https://www.linkedin.com/in/dhruvin-sa/thvara-901501305/' target='_blank' class="fa-brands similarFont fs-1 fa-linkedin"></a>
+                        <a href='https://www.linkedin.com/in/patel-dhaval-0dk18' target='_blank' class="fa-brands similarFont fs-1 fa-linkedin"></a>
                         <span className='dashi'></span>
-                    </div> */}
+                    </div>
                     <div className="col"
                         data-aos-anchor-placement="top-center">
                         <span className='i'></span>
